@@ -1,0 +1,9 @@
+Poly Haven textures - CC0 1.0 Universal (public-domain dedication)
+https://polyhaven.com/license  |  https://creativecommons.org/publicdomain/zero/1.0/
+
+Used here (diffuse maps, 2k, obtained earlier by the project owner and recorded in
+Desktop/CarRacingGame/public/textures/SOURCES.json with license "CC0"):
+  - leafy_grass     https://polyhaven.com/a/leafy_grass      -> assets/textures/ground_autumn.jpg (colour-graded derivative)
+  - coast_sand_01   https://polyhaven.com/a/coast_sand_01    -> assets/textures/dirt_path.jpg    (colour-graded derivative)
+
+CC0 requires no attribution; this note keeps the origin with the files.
